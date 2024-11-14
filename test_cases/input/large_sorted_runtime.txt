@@ -1,0 +1,5 @@
+spell_check> load test_cases/resources/dictionary_large_sorted.txt
+spell_check> lookup zooks
+spell_check> lookup zeppelin
+spell_check> lookup zymosis
+spell_check> exit
